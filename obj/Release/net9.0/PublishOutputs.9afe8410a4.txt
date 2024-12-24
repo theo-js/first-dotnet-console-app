@@ -1,0 +1,5 @@
+C:\www\theo-js\formation\c#\firstapp\bin\Release\net9.0\publish\firstapp.exe
+C:\www\theo-js\formation\c#\firstapp\bin\Release\net9.0\publish\firstapp.dll
+C:\www\theo-js\formation\c#\firstapp\bin\Release\net9.0\publish\firstapp.deps.json
+C:\www\theo-js\formation\c#\firstapp\bin\Release\net9.0\publish\firstapp.runtimeconfig.json
+C:\www\theo-js\formation\c#\firstapp\bin\Release\net9.0\publish\firstapp.pdb

@@ -1,0 +1,14 @@
+C:\www\theo-js\formation\c#\firstapp\bin\Release\net9.0\firstapp.exe
+C:\www\theo-js\formation\c#\firstapp\bin\Release\net9.0\firstapp.deps.json
+C:\www\theo-js\formation\c#\firstapp\bin\Release\net9.0\firstapp.runtimeconfig.json
+C:\www\theo-js\formation\c#\firstapp\bin\Release\net9.0\firstapp.dll
+C:\www\theo-js\formation\c#\firstapp\bin\Release\net9.0\firstapp.pdb
+C:\www\theo-js\formation\c#\firstapp\obj\Release\net9.0\firstapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\www\theo-js\formation\c#\firstapp\obj\Release\net9.0\firstapp.AssemblyInfoInputs.cache
+C:\www\theo-js\formation\c#\firstapp\obj\Release\net9.0\firstapp.AssemblyInfo.cs
+C:\www\theo-js\formation\c#\firstapp\obj\Release\net9.0\firstapp.csproj.CoreCompileInputs.cache
+C:\www\theo-js\formation\c#\firstapp\obj\Release\net9.0\firstapp.dll
+C:\www\theo-js\formation\c#\firstapp\obj\Release\net9.0\refint\firstapp.dll
+C:\www\theo-js\formation\c#\firstapp\obj\Release\net9.0\firstapp.pdb
+C:\www\theo-js\formation\c#\firstapp\obj\Release\net9.0\firstapp.genruntimeconfig.cache
+C:\www\theo-js\formation\c#\firstapp\obj\Release\net9.0\ref\firstapp.dll
